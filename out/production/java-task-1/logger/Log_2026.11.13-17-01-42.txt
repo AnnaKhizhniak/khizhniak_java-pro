@@ -1,8 +1,0 @@
-[2026.11.13-17:01][DEBUG] Message: Hello 
-[2026.11.13-17:01][INFO] Message: Bye 
-[2026.11.13-17:01][DEBUG] Message: Hello 
-[2026.11.13-17:01][INFO] Message: Bye 
-[2026.11.13-17:01][DEBUG] Message: Hello 
-[2026.11.13-17:01][INFO] Message: Bye 
-[2026.11.13-17:01][DEBUG] Message: Hello 
-[2026.11.13-17:01][INFO] Message: Bye 
