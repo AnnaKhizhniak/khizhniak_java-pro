@@ -1,3 +1,5 @@
+package org.example;
+
 public class FileLoggerConfiguration implements LoggerConfig {
   private String file;
   private LoggingLevel level;
